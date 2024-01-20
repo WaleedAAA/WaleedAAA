@@ -1,4 +1,6 @@
 ![Masterhead](https://i.imgur.com/tg0pHhf.gif)
+![](https://komarev.com/ghpvc/?username=waleedaaa&color=lightgrey&style=flat)
+
 <h1 align="center">Hello 👋, I'm Waleed Asif</h1>
 <h3 align="center">A Computer Science Student @ Wilfrid Laurier University!! I am currently looking for a Summer 2024 SWE Internship!</h3>
 
