@@ -8,7 +8,7 @@
   
 -  🌱 I’m currently learning WebRTC and Assembly language lol..
 
-- 👨‍💻 Checkout my personal portfolio [codebywaleed.com](Codebywaleed.com)
+- 👨‍💻 Checkout my personal portfolio [codebywaleed.com](https://codebywaleed.com)
 
   
 - 📫 Wanna Chat? Contact me here --> **waleedasif370@gmail.com**
