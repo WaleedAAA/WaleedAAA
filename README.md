@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=waleedaaa&color=lightgrey&style=flat)
 
 <h1 align="center">Hello 👋, I'm Waleed Asif</h1>
-<h3 align="center">A Computer Science Student @ Wilfrid Laurier University!! I am currently looking for a Summer 2024 SWE Internship!</h3>
+<h3 align="center">A Computer Science Student @ Wilfrid Laurier University!! I am currently looking for a Summer 2025 SWE Internship!</h3>
 
 - 🔭 I’m currently working on [WLU MSA Website](https://github.com/wlumsa)
   
